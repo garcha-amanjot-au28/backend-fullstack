@@ -61,7 +61,7 @@ export const userData = [
     {
       name: "Mar",
       "Sales": 5000,
-    },
+    }
   ];
 
   export const userRows = [
